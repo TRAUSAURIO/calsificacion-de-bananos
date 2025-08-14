@@ -6,7 +6,8 @@
 
 Sistema avanzado de clasificación de bananos que combina visión por computadora y aprendizaje profundo para identificación en tiempo real con autenticación facial.
 
-![Demo Interface](https://via.placeholder.com/800x500/2D2D2D/FFD700?text=BananaPro+Classifier+Demo) *(Reemplazar con gif real)*
+![Demo Interface]<img width="1319" height="610" alt="image" src="https://github.com/user-attachments/assets/e9cc836a-494f-474e-90c2-de1ddec4f012" />
+
 
 ## ✨ Características Principales
 
