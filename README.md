@@ -44,5 +44,5 @@ Sistema avanzado de clasificación de bananos que combina visión por computador
 
 1. Clonar el repositorio:
    ```bash
-   git clone https://github.com/tuusuario/clasificador-de-banano.git
+   git clone https://github.com/TRAUSAURIO/clasificador-de-banano.git
    cd clasificador-de-banano
